@@ -1,0 +1,8 @@
+{
+  "name": "pic-potter-backend",
+  "version": "1.0.0",
+  "description": "this is picpotter backend ",
+  "main": "index.js",
+  "author": "Mobashir Farhan",
+  "license": "MIT"
+}
